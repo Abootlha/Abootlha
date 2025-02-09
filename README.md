@@ -113,4 +113,12 @@ Here are some of the technologies I'm comfortable working with:
 
 ---
 
-## 💬 Random Dev Quote
+---
+
+## 💬 Random Dev Quote <span style="background-color: #f0f0f0; padding: 5px; border-radius: 3px;">✨</span>
+
+<blockquote style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+  "The best error message is the one that never shows up." - Thomas Fuchs
+</blockquote>
+
+---
